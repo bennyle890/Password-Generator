@@ -5,3 +5,5 @@ This repository will generate a randomized password that is between 8-128 charac
 Below is a photo of what the Password Generator looks like. 
 
 ![Password Generator](https://raw.githubusercontent.com/bennyle890/Password-Generator/main/Develop/assets/images/password-generator-img.png)
+
+A link to the repository is attached below. [Password Generator](https://bennyle890.github.io/Password-Generator/)
